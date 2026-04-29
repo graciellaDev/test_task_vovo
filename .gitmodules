@@ -1,3 +1,0 @@
-[submodule "laravel-app"]
-	path = laravel-app
-	url = https://github.com/laravel/laravel.git
